@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charley Glynn",
+        "Twitter handle": "charley_glynn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5130770206451416,
+          50.923960365979426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OSHQ",
+        "Twitter handle": "ordnancesurvey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4702689647674558,
+          50.93848319202901
+        ]
+      }
+    }
+  ]
+}
